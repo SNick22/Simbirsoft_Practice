@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="details">Подробнее</string>
+    <string name="task">Событие</string>
+</resources>
